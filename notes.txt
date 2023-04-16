@@ -1,0 +1,8 @@
+- dataset url : kaggle.com/amitabhajoy/bengaluru-house-price-data
+
+df.shape :(property) ==> (rows, colums )
+
+0--Introduction
+1-- Data Cleaning
+2-- Feature engeneering
+3-- Outlier Detection
